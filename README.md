@@ -66,15 +66,14 @@ yaml 头文件长这样:
 ```
 ---
 layout:     post
-title:      定时器 你真的会使用吗？
-subtitle:   iOS定时器详解
-date:       2016-12-13
-author:     BY
-header-img: img/post-bg-ios9-web.jpg
-catalog: 	 true
+title:      JS的防抖和节流
+subtitle:   依旧是老知识整理
+date:       2020-04-27
+author:     louxinghong
+header-img: img/2020-04-27/2020-04-27.jpg
+catalog:    true
 tags:
-    - iOS
-    - 定时器
+  - JavaScript
 ---
 
 ```

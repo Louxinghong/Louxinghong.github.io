@@ -74,10 +74,10 @@ async 函数的实现，其实就是将 Generator 函数和自动执行器包装
 
 相较于 promise 的优势：
 
-1. async 能更好地处理 then 链：
+1. async 能更好地处理 then 链。
 
 ```Js
-// promise：
+// promise
 function doIt() {
     console.time("doIt");
     const time1 = 300;
@@ -89,7 +89,7 @@ function doIt() {
         });
 }
 
-// async/await：
+// async/await
 async function doIt() {
     console.time("doIt");
     const time1 = 300;
@@ -100,9 +100,9 @@ async function doIt() {
 }
 ```
 
-2. 能更好地处理中间值
+2. 能更好地处理中间值。
 
-3. 更容易调试
+3. 更容易调试。
 
 # 总结
 
